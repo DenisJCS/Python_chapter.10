@@ -1,0 +1,12 @@
+In Python you can work with automation any process
+
+In Python you can create data storeges , like tubles, dictinories , lists and a lot more
+
+In Python you can create a program almost for anything and modulies real world procces using classes
+
+In Python you can build back end for any website using framework django
+
+In Python you can analyze big amount of data
+
+In Python you can start working with AI 
+
