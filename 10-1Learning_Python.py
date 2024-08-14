@@ -38,3 +38,14 @@ new_contents = path.read_text().replace("Python", "Java")
 lines = new_contents.splitlines()
 for line in lines:
     print(line)
+
+
+#10-3 removed temporary variable from each of program line 
+from pathlib import Path
+
+path = Path("python_sum.txt")
+new_contents = path.read_text().replace("Python", "C++")
+
+
+for line in new_contents.splitlines():
+    print(line)
