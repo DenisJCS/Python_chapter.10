@@ -19,3 +19,21 @@ while True:
     answer = int(first_number) / int(second_number)
     print(answer)
     
+denis_jcs@Deniss-MacBook-Air chapter_10 % python3 division_calculate.py
+You can't divide by zero
+Give me two numbers, and I'll divide them.
+Enter 'q' to quit.
+
+First number: 250
+
+Second number: 15
+16.666666666666668
+
+First number: 9999
+
+Second number: 1717
+5.823529411764706
+
+First number: q
+denis_jcs@Deniss-MacBook-Air chapter_10 % 
+
