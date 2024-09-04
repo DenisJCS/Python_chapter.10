@@ -37,3 +37,19 @@ Second number: 1717
 First number: q
 denis_jcs@Deniss-MacBook-Air chapter_10 % 
 
+#But this program does nothing to handle errors so asking it to divide by zero
+Give me two numbers, and I'll divide them.
+Enter 'q' to quit.
+
+First number: 10
+
+Second number: 50
+0.2
+
+First number: 100
+
+Second number: 0
+Traceback (most recent call last):
+  File "/Users/denis_jcs/Desktop/chapter_10/division_calculate.py", line 18, in <module>
+    answer = int(first_number) / int(second_number)
+             ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~
