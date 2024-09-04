@@ -1,3 +1,4 @@
+#this is exception block that allow run program even if Python thinks it as error
 try:
     print(5/0)
 except: ZeroDivisionError
