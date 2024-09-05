@@ -19,3 +19,7 @@ for filename in filenames:
     count_words(path)
 
 
+The file alice.txt has about 26549 words.
+Sorry, the file siddhart.txt does not exist.
+The file moby_dick.txt has about 215864 words.
+The file little_women.txt has about 189145 words.
