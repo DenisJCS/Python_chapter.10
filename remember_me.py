@@ -26,6 +26,8 @@ else:
     path.write_text(contents)
     print(f"We will remember you when you come back, {username}")
 
+
+#Everything structered and set into def functions
 from pathlib import Path
 import json
 
